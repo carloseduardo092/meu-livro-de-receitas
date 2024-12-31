@@ -1,0 +1,1 @@
+Apenas teste de commit no git pelo terminal
